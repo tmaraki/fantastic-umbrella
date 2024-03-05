@@ -43,7 +43,7 @@ Before sure to install [MySQL2](https://www.npmjs.com/package/mysql2) , [Sequeli
 
 ## Walkthrough Video
 
-Walkthrough video on application's capabilities [HERE](https://drive.google.com/file/d/1T3or4TCf0hHevFEUWY-sqDaBNtmirqBL/view)
+Walkthrough video on application's capabilities [HERE](https://youtu.be/1ZR-rZxxRPI)
 
 ## Usage
 
