@@ -41,6 +41,10 @@ Before sure to install [MySQL2](https://www.npmjs.com/package/mysql2) , [Sequeli
     npm i sequelize
     npm i dotenv
 
+## Walkthrough Video
+
+Walkthrough video on application's capabilities [HERE](https://drive.google.com/file/d/1T3or4TCf0hHevFEUWY-sqDaBNtmirqBL/view)
+
 ## Usage
 
 1. After installing the appropriate softwares, open the integrated terminal in the 'Develop' folder
