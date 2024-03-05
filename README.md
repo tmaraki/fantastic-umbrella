@@ -47,26 +47,26 @@ Walkthrough video on application's capabilities [HERE](https://drive.google.com/
 
 ## Usage
 
-1. After installing the appropriate softwares, open the integrated terminal in the 'Develop' folder
+After installing the appropriate softwares, open the integrated terminal in the 'Develop' folder
 
-2. Log into MySQL
+Log into MySQL
 
-   mysql -u root -p
+mysql -u root -p
 
-3. Create the schema from the MySQL shell. After successfully creating it, exit MySQL
+Create the schema from the MySQL shell. After successfully creating it, exit MySQL
 
-   SOURCE db/schema.sql;
-   exit
+SOURCE db/schema.sql;
+exit
 
-4. Seed the application from the command line
+Seed the application from the command line
 
-   npm run seed
+npm run seed
 
-5. Start the application's server. You will receive a "Now listening" message when the application has successfully ran.
+Start the application's server. You will receive a "Now listening" message when the application has successfully ran.
 
-   npm start
+npm start
 
-6. Open Insomnia, and run the GET, POST, UPDATE, and DELETE requests as needed
+Open Insomnia, and run the GET, POST, UPDATE, and DELETE requests as needed
 
 ## Credits
 
